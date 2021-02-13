@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Actor",
+        "repositoryURL": "https://github.com/horsejockey/Actor-Swift",
+        "state": {
+          "branch": null,
+          "revision": "0ee214625c2e09a48c813da505c1faccc44300ab",
+          "version": "3.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

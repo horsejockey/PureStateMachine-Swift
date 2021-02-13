@@ -13,8 +13,8 @@ let package = Package(
     dependencies: [
         .package(
             name: "Actor",
-            url: "https://github.com/horsejockey/Actor-iOS",
-            from: "4.0.0"
+            url: "https://github.com/horsejockey/Actor-Swift",
+            from: "3.0.0"
         ),
     ],
     targets: [
